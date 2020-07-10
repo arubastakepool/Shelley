@@ -1,1 +1,6 @@
-under construction
+{
+"name": "ArubaStakePool",
+"description": "Testing before mainnet",
+"ticker": "ARUBA",
+"homepage": "https://arubastakepool.com"
+}
