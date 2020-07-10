@@ -1,6 +1,6 @@
 {
 "name": "ArubaStakePool",
-"description": "Testing before mainnet",
+"description": "Testing for mainnet",
 "ticker": "ARUBA",
-"homepage": "https://raw.githubusercontent.com/arubastakepool/cardano-node/master/aruba.json"
+"homepage": "https://github.com/arubastakepool/cardano-node/blob/master/aruba.json"
 }
