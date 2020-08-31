@@ -1,0 +1,34 @@
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "",
+        "social": {
+            "twitter_handle": "arubastakepool",
+            "telegram_handle": "arubastakepool",
+            "facebook_handle": "arubastakepool",
+            "youtube_handle": "UC_06yP3_kG50TspqfB65lwQ",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "ArubaStakePool",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        },
+    "my-pool-ids": {
+        "0": "29ae2ec53e9933a9503a82e13b059d6e6425cc0cc59e8cc7eae10a86",
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+    }
+}
