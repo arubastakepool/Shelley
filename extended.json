@@ -1,35 +1,30 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://tinyurl.com/y62c453g",
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "",
         "url_png_logo": "https://github.com/arubastakepool/Shelley/blob/master/white%20logo%20and%20text.png",
-        "location": "",
         "social": {
             "twitter_handle": "arubastakepool",
             "telegram_handle": "arubastakepool",
             "facebook_handle": "arubastakepool",
-            "youtube_handle": "UC_06yP3_kG50TspqfB65lwQ",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
+            "youtube_handle": "UC_06yP3_kG50TspqfB65lwQ"
         },
         "company": {
-            "name": "ArubaStakePool",
-            "addr": "",
+            "name": "ArubaStakePool"
             "city": "Rotterdam",
-            "country": "The Netherlands",
-            "company_id": "",
-            "vat_id": ""
+            "country": "The Netherlands"
         },
         "about": {
             "me": "Aruban born, long time Cardano enthusiast. I have a background in engineering and have experience working as a QA for an IT company specialized in cryptographic identity software. I'm commited to providing only top quality staking services to all delegators. Representing my island and sharing Aruba's love for Cardano one block at a time.",
             "server": "Dedicated root servers that are kept safe in seperate datacenters. Core server: Ryzen 7 3700x|64GB RAM ECC|2TB storage. Relay servers: Ryzen 5 3600|64GB RAM ECC|1TB storage."
-            "company": ""
         },
+    },
     "my-pool-ids": {
-        "0": "29ae2ec53e9933a9503a82e13b059d6e6425cc0cc59e8cc7eae10a86",
+        "0": "29ae2ec53e9933a9503a82e13b059d6e6425cc0cc59e8cc7eae10a86"
     },
     "when-satured-then-recommend": {
-        "0": "",
+        "0": "029ae2ec53e9933a9503a82e13b059d6e6425cc0cc59e8cc7eae10a86"
+    },
+    "telegram-admin-handle": {
+        "0": "AGT_297"
     }
 }
