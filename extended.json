@@ -1,7 +1,8 @@
 {
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://tinyurl.com/y62c453g",
     "info": {
         "url_png_icon_64x64": "",
-        "url_png_logo": "",
+        "url_png_logo": "https://github.com/arubastakepool/Shelley/blob/master/white%20logo%20and%20text.png",
         "location": "",
         "social": {
             "twitter_handle": "arubastakepool",
@@ -15,14 +16,14 @@
         "company": {
             "name": "ArubaStakePool",
             "addr": "",
-            "city": "",
-            "country": "",
+            "city": "Rotterdam",
+            "country": "The Netherlands",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
-            "me": "",
-            "server": "",
+            "me": "Aruban born, long time Cardano enthusiast. I have a background in engineering and have experience working as a QA for an IT company specialized in cryptographic identity software. I'm commited to providing only top quality staking services to all delegators. Representing my island and sharing Aruba's love for Cardano one block at a time.",
+            "server": "Dedicated root servers that are kept safe in seperate datacenters. Core server: Ryzen 7 3700x|64GB RAM ECC|2TB storage. Relay servers: Ryzen 5 3600|64GB RAM ECC|1TB storage."
             "company": ""
         },
     "my-pool-ids": {
