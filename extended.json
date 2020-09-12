@@ -1,5 +1,4 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_logo": "https://github.com/arubastakepool/Shelley/blob/master/white%20logo%20and%20text.png",
         "social": {
