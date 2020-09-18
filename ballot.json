@@ -1,0 +1,26 @@
+{
+    "1": {
+        "ObjectType": "VoteBallot",
+        "ObjectVersion": "1.0.0",
+        "NetworkId": "SPOCRA",
+        "ProposalId": "00d8f63b-9efb-41b6-90dc-35d90f5ad4e2",
+        "VoterId": "58f2affd-60a6-4ed6-bd17-150dfa5bd1db",
+        "Choices": {
+            "7": {
+                "CandidateId": "d913c16d-c8ea-4a8b-a225-fc24404a562f",
+                "VoteWeight": 1,
+                "VoteRank": 1
+            },
+            "13": {
+                "CandidateId": "98245c2a-7b03-4ed1-b3ed-bb67f9298ecf",
+                "VoteWeight": 1,
+                "VoteRank": 3
+            },
+            "17": {
+                "CandidateId": "fa1885a1-b47b-42e9-a751-02ae52b83f93",
+                "VoteWeight": 1,
+                "VoteRank": 2
+            }
+        }
+    }
+}
